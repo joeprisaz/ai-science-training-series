@@ -7,6 +7,22 @@
 
 [Indico registration page (CLOSED)](https://events.cels.anl.gov/event/436)
 
+### Links added after course end
+
+[MyALCF Login](https://my.alcf.anl.gov/#/login)
+
+[ALCF GitHub Repository](https://github.com/argonne-lcf/ai-science-training-series)
+
+[Google Colab](https://colab.research.google.com/)
+
+[Slack](alcfai4science-fa2024.slack.com)
+
+[Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385)
+
+[Hugging Face](https://huggingface.co/)
+
+[jupyterhub](https://jupyter.alcf.anl.gov/polaris/hub/)
+
 This repository is organized into one subdirectory per topic.  All content is prefixed by a two-digit index in the order of presentation in the tutorials.
 
 <details open>
